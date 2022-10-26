@@ -18,7 +18,7 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/w
 Accept-Language: en-US,en;q=0.5
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 101
-Origin: http://126.160.241.131
+Origin: http://{HOST}
 Connection: close
 Referer: http://{HOST}/Solar_AiConf.php
 Upgrade-Insecure-Requests: 1
