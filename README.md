@@ -27,3 +27,4 @@ ch0_min=0&ch0_max=1.43&ch1_min=-50&ch1_max=50&ch2_min=1&ch2_max=5&ch3_min=1"><sc
 ```
 
 4. send the request and notice the XSS alert
+5. try to refresh the page or visit it with other browser you will still have the alert pop-up
