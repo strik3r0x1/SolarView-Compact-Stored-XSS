@@ -2,7 +2,7 @@
 
 ## Description 
 
-Stored XSS in SolarView Compact prior to 7.00 which lead attackers to inject arbitrary script code
+Stored XSS in SolarView Compact 7.00 which lead attackers to inject arbitrary script code
 
 ## POC
 
